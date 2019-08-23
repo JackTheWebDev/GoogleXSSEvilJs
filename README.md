@@ -1,2 +1,2 @@
 # tempXSS
-Just trying google xss game ( LVL 6 ) 
+You can use this for the Google XSS game LVL 6 
